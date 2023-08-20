@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devil</h1>
 <h3 align="center">python programmer from Bangladesh</h3>
-[![icegif-174.gif](https://i.postimg.cc/26xn46qx/icegif-174.gif)](https://postimg.cc/vgc1yGt1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdevilex&label=Profile%20views&color=0e75b6&style=flat" alt="mrdevilex" /> </p>
 
